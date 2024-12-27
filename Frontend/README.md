@@ -1,0 +1,1 @@
+grpcwebproxy --backend_addr=localhost:9090 --run_tls_server=false --allow_all_origins --server_http_debug_port=8081
